@@ -3,6 +3,7 @@ Zucchini
 
 [![Join the chat at https://gitter.im/Comcast/zucchini](https://badges.gitter.im/Comcast/zucchini.svg)](https://gitter.im/Comcast/zucchini?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/Comcast/zucchini.svg)](https://travis-ci.org/Comcast/zucchini)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fannania%2Fzucchini.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fannania%2Fzucchini?ref=badge_shield)
 
 [http://comcast.github.io/zucchini/](http://comcast.github.io/zucchini/)
 
@@ -37,3 +38,7 @@ For more information on what Zucchini is and how to use it please see the [zucch
 
 ## Submitting Issues
 Please file a github issue for any problems or feature requests (or better yet, submit a pull request!)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fannania%2Fzucchini.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fannania%2Fzucchini?ref=badge_large)
